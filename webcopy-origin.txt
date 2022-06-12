@@ -1,0 +1,792 @@
+Uri: http://cr6105.rinethost.ru/wp-content/uploads/2020/06/scale_2400-300x165.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\06\scale_2400-300x165.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/
+File Name: C:\Downloaded Web Sites\www.itd.ru\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/budut-li-vvedeny-novye-sankcii-v-2020-godu/
+File Name: C:\Downloaded Web Sites\www.itd.ru\budut-li-vvedeny-novye-sankcii-v-2020-godu\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/budut-li-vvedeny-novye-sankcii-v-2020-godu/feed/
+File Name: C:\Downloaded Web Sites\www.itd.ru\budut-li-vvedeny-novye-sankcii-v-2020-godu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.itd.ru/comments/feed/
+File Name: C:\Downloaded Web Sites\www.itd.ru\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.itd.ru/feed/
+File Name: C:\Downloaded Web Sites\www.itd.ru\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.itd.ru/kak-silno-upadjot-rubl-v-2020-godu/
+File Name: C:\Downloaded Web Sites\www.itd.ru\kak-silno-upadjot-rubl-v-2020-godu\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/kak-silno-upadjot-rubl-v-2020-godu/feed/
+File Name: C:\Downloaded Web Sites\www.itd.ru\kak-silno-upadjot-rubl-v-2020-godu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.itd.ru/kontakty/
+File Name: C:\Downloaded Web Sites\www.itd.ru\kontakty\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/o-nas/
+File Name: C:\Downloaded Web Sites\www.itd.ru\o-nas\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/projects/bank-mdm/
+File Name: C:\Downloaded Web Sites\www.itd.ru\projects\bank-mdm\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/projects/bank-moskwy/
+File Name: C:\Downloaded Web Sites\www.itd.ru\projects\bank-moskwy\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/projects/bks-bank/
+File Name: C:\Downloaded Web Sites\www.itd.ru\projects\bks-bank\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/projects/centr-creditovania-sberbank-norilsk/
+File Name: C:\Downloaded Web Sites\www.itd.ru\projects\centr-creditovania-sberbank-norilsk\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/projects/otp-bank-n-novgorod/
+File Name: C:\Downloaded Web Sites\www.itd.ru\projects\otp-bank-n-novgorod\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/projects/promsvjazbank/
+File Name: C:\Downloaded Web Sites\www.itd.ru\projects\promsvjazbank\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/projects/vtb-24/
+File Name: C:\Downloaded Web Sites\www.itd.ru\projects\vtb-24\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/ritejl-2020/
+File Name: C:\Downloaded Web Sites\www.itd.ru\ritejl-2020\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/ritejl-2020/feed/
+File Name: C:\Downloaded Web Sites\www.itd.ru\ritejl-2020\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.itd.ru/services/dizajn/
+File Name: C:\Downloaded Web Sites\www.itd.ru\services\dizajn\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/services/fasadnie-raboty/
+File Name: C:\Downloaded Web Sites\www.itd.ru\services\fasadnie-raboty\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/services/inzhenernye-raboty/
+File Name: C:\Downloaded Web Sites\www.itd.ru\services\inzhenernye-raboty\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/services/izgotovlenie-i-postavka-mebeli/
+File Name: C:\Downloaded Web Sites\www.itd.ru\services\izgotovlenie-i-postavka-mebeli\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/services/krovelnie-raboty/
+File Name: C:\Downloaded Web Sites\www.itd.ru\services\krovelnie-raboty\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/services/proektirovanie/
+File Name: C:\Downloaded Web Sites\www.itd.ru\services\proektirovanie\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/services/remont-i-otdelka/
+File Name: C:\Downloaded Web Sites\www.itd.ru\services\remont-i-otdelka\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/services/zashhitnye-konstrukcii/
+File Name: C:\Downloaded Web Sites\www.itd.ru\services\zashhitnye-konstrukcii\index.htm
+Content Type: text/html
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/css/main.css?ver=null
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\css\main.css
+Content Type: text/css
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/BebasNeueBold/BebasNeueBold.eot
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\BebasNeueBold\BebasNeueBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/BebasNeueBold/BebasNeueBold.eot?
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\BebasNeueBold\BebasNeueBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/BebasNeueBold/BebasNeueBold.ttf
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\BebasNeueBold\BebasNeueBold.ttf
+Content Type: font/ttf
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/BebasNeueBold/BebasNeueBold.woff
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\BebasNeueBold\BebasNeueBold.woff
+Content Type: font/woff
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/BebasNeueRegular/BebasNeueRegular.eot
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\BebasNeueRegular\BebasNeueRegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/BebasNeueRegular/BebasNeueRegular.eot?
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\BebasNeueRegular\BebasNeueRegular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/BebasNeueRegular/BebasNeueRegular.ttf
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\BebasNeueRegular\BebasNeueRegular.ttf
+Content Type: font/ttf
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/BebasNeueRegular/BebasNeueRegular.woff
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\BebasNeueRegular\BebasNeueRegular.woff
+Content Type: font/woff
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/FuturaBookC/FuturaBookC.eot
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\FuturaBookC\FuturaBookC.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/FuturaBookC/FuturaBookC.eot?
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\FuturaBookC\FuturaBookC-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/FuturaBookC/FuturaBookC.ttf
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\FuturaBookC\FuturaBookC.ttf
+Content Type: font/ttf
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/FuturaBookC/FuturaBookC.woff
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\FuturaBookC\FuturaBookC.woff
+Content Type: font/woff
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/FuturaDemiC/FuturaDemiC.eot
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\FuturaDemiC\FuturaDemiC.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/FuturaDemiC/FuturaDemiC.eot?
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\FuturaDemiC\FuturaDemiC-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/FuturaDemiC/FuturaDemiC.ttf
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\FuturaDemiC\FuturaDemiC.ttf
+Content Type: font/ttf
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/FuturaDemiC/FuturaDemiC.woff
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\FuturaDemiC\FuturaDemiC.woff
+Content Type: font/woff
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/RobotoBold/RobotoBold.eot
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\RobotoBold\RobotoBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/RobotoBold/RobotoBold.eot?
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\RobotoBold\RobotoBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/RobotoBold/RobotoBold.ttf
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\RobotoBold\RobotoBold.ttf
+Content Type: font/ttf
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/RobotoBold/RobotoBold.woff
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\RobotoBold\RobotoBold.woff
+Content Type: font/woff
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/RobotoRegular/RobotoRegular.eot
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\RobotoRegular\RobotoRegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/RobotoRegular/RobotoRegular.eot?
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\RobotoRegular\RobotoRegular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/RobotoRegular/RobotoRegular.ttf
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\RobotoRegular\RobotoRegular.ttf
+Content Type: font/ttf
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/fonts/RobotoRegular/RobotoRegular.woff
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\fonts\RobotoRegular\RobotoRegular.woff
+Content Type: font/woff
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/about.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\about.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/advance-bg.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\advance-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/bg-bottom.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\bg-bottom.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/consultation-bg.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\consultation-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/contacts/about-page.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\contacts\about-page.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/contacts/arroba.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\contacts\arroba.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/contacts/email.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\contacts\email.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/contacts/placeholder.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\contacts\placeholder.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/phone-footer.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\phone-footer.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/phone-icon.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\phone-icon.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/phone-mobi.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\phone-mobi.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/projects/annual.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\projects\annual.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/projects/clipboards.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\projects\clipboards.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/projects/clock.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\projects\clock.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/projects/coins.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\projects\coins.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/projects/resize.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\projects\resize.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/projects/star.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\projects\star.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/time.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\time.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/img/top-bg.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\img\top-bg.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/assets/js/scripts.js?ver=null
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://www.itd.ru/wp-content/themes/itd-group/style.css?ver=6.0
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\themes\itd-group\style.css
+Content Type: text/css
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/bks-300x290.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\bks-300x290.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/bks.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\bks.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/bm-300x290.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\bm-300x290.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/bm.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\bm.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/brainstorm.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\brainstorm.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/customer-service.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\customer-service.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/logo.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\logo.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/mdm-300x290.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\mdm-300x290.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/mdm.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\mdm.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/otp-300x290.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\otp-300x290.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/otp.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\otp.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/partner1.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\partner1.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/partner2.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\partner2.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/partner3.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\partner3.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/partner4.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\partner4.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/partner5.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\partner5.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/partner6.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\partner6.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/project.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\project.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/project1.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\project1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/project2.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\project2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/project3.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\project3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/project4-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\project4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/project4-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\project4-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/project4.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\project4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/project5.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\project5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/project6.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\project6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/project7.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\project7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/prom-300x290.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\prom-300x290.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/prom.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\prom.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/ser1.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\ser1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/ser2.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\ser2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/ser3.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\ser3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/serv2-2.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\serv2-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/servic-page-2.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\servic-page-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/service-add.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\service-add.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/service-page-3-293x300.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\service-page-3-293x300.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/service-page-3.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\service-page-3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/service1.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\service1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/service2.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\service2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/service3.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\service3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services-2-300x131.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services-2-300x131.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services-2.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services-page-about-293x300.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services-page-about-293x300.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services-page-about.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services-page-about.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services2-3.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services2-3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services4-300x222.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services4-300x222.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services4.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services5-300x271.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services5-300x271.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services5.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services6-292x300.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services6-292x300.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services6.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services7-300x188.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services7-300x188.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services7.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services8-300x221.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services8-300x221.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/services8.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\services8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/slide1.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\slide1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/wtb24-300x290.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\wtb24-300x290.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/01/wtb24.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\01\wtb24.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/06/scale_2400-300x165.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\06\scale_2400-300x165-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/06/scale_2400.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\06\scale_2400.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/06/smp-e1592286674733.png
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\06\smp-e1592286674733.png
+Content Type: image/png
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/11/kvarc-233x300.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\11\kvarc-233x300.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/11/kvarc.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\11\kvarc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2020/11/kvarc_2.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2020\11\kvarc_2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2021/01/multiplit.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2021\01\multiplit.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2021/01/multiplit2-1024x622.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2021\01\multiplit2-1024x622.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2021/01/multiplit2-300x182.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2021\01\multiplit2-300x182.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2021/01/multiplit2-768x466.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2021\01\multiplit2-768x466.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-content/uploads/2021/01/multiplit2.jpg
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-content\uploads\2021\01\multiplit2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.itd.ru/wp-includes/css/dist/block-library/style.min.css?ver=6.0
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://www.itd.ru/wp-includes/js/comment-reply.min.js?ver=6.0
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://www.itd.ru/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://www.itd.ru/wp-json/
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fbudut-li-vvedeny-novye-sankcii-v-2020-godu%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fbudut-li-vvedeny-novye-sankcii-v-2020-godu%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fkak-silno-upadjot-rubl-v-2020-godu%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fkak-silno-upadjot-rubl-v-2020-godu%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fkontakty%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fkontakty%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fo-nas%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fo-nas%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fbank-mdm%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fbank-mdm%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fbank-moskwy%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fbank-moskwy%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fbks-bank%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fbks-bank%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fcentr-creditovania-sberbank-norilsk%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fcentr-creditovania-sberbank-norilsk%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fotp-bank-n-novgorod%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fotp-bank-n-novgorod%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fpromsvjazbank%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fpromsvjazbank%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fvtb-24%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fprojects%2Fvtb-24%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fritejl-2020%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fritejl-2020%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Fdizajn%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Fdizajn%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Ffasadnie-raboty%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Ffasadnie-raboty%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Finzhenernye-raboty%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Finzhenernye-raboty%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Fizgotovlenie-i-postavka-mebeli%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Fizgotovlenie-i-postavka-mebeli%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Fkrovelnie-raboty%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Fkrovelnie-raboty%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Fproektirovanie%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Fproektirovanie%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Fremont-i-otdelka%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Fremont-i-otdelka%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Fzashhitnye-konstrukcii%2F
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.itd.ru%2Fservices%2Fzashhitnye-konstrukcii%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://www.itd.ru/wp-json/wp/v2/pages/307
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\wp\v2\pages\307
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/wp/v2/pages/6
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\wp\v2\pages\6
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/wp/v2/pages/7
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/wp/v2/posts/297
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\wp\v2\posts\297
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/wp/v2/posts/301
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\wp\v2\posts\301
+Content Type: application/json
+
+Uri: http://www.itd.ru/wp-json/wp/v2/posts/303
+File Name: C:\Downloaded Web Sites\www.itd.ru\wp-json\wp\v2\posts\303
+Content Type: application/json
+
+Uri: http://www.itd.ru/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.itd.ru\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:2d39c5384e955baeac06814b72075c62a9612380527dd28749147eae6fa97057&width=100%25&height=486&lang=ru_UA&scroll=false
+File Name: C:\Downloaded Web Sites\www.itd.ru\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/70025119
+File Name: C:\Downloaded Web Sites\www.itd.ru\watch\70025119
+Content Type: image/gif
+
